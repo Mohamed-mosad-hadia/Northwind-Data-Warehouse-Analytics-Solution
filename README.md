@@ -57,3 +57,7 @@ This project designs and implements a **Data Warehouse (DWH)** and analytics sol
 ## 🗂️ Medallion Architecture – ETL Pipeline
 ![ETL Process](https://github.com/Mohamed-mosad-hadia/Northwind-Data-Warehouse-Analytics-Solution/blob/main/3-Gold%20Layer/ETL_process.png)
 
+
+
+## 🚩 Schema Design 
+![ETL Process](https://github.com/Mohamed-mosad-hadia/Northwind-Data-Warehouse-Analytics-Solution/blob/main/3-Gold%20Layer/Schema_design.png)
