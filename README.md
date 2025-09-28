@@ -14,7 +14,7 @@ This project designs and implements a **Data Warehouse (DWH)** and analytics sol
 
   
 ## 🏢 Business Process 
-- sales
+- Sales
 - Shipment
 - Invoice
 
@@ -28,8 +28,8 @@ This project designs and implements a **Data Warehouse (DWH)** and analytics sol
 
 
 ## 🚀 Deliverables
-- **Phase 1:** Business understanding & modeling:contentReference[oaicite:2]{index=2}
-- **Phase 2:** Data preparation & ETL with SQL:contentReference[oaicite:3]{index=3}
+- **Phase 1:** Business understanding & modeling:contentReference
+- **Phase 2:** Data preparation & ETL with SQL:contentReference
 - **Phase 3:** Data warehouse implementation (facts & dimensions)
 - **Phase 4:** Reporting & analytics (SQL queries, dashboards)
 - **Phase 5:** Documentation & presentation
