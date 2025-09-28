@@ -52,7 +52,8 @@ This project designs and implements a **Data Warehouse (DWH)** and analytics sol
 - Invoice outstanding & aging analysis  
 
 
-## 🗂️ Medallion Architecture – ETL Pipeline
 
-![ETL Process](docs/ETL_process.png)
+
+## 🗂️ Medallion Architecture – ETL Pipeline
+![ETL Process](https://github.com/Mohamed-mosad-hadia/Northwind-Data-Warehouse-Analytics-Solution/blob/main/3-Gold%20Layer/ETL_process.png)
 
