@@ -14,7 +14,7 @@ This project designs and implements a **Data Warehouse (DWH)** and analytics sol
 - Profitability analysis (margins, discounts)
 - Customer & employee performance
 - Logistics & delivery (shipper comparison, delivery times)
-- Invoice monitoring (outstanding amounts, aging)
+- Invoice monitoring (outstanding amounts)
 
   
 ## 🏢 Business Process 
