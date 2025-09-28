@@ -38,10 +38,13 @@ This project designs and implements a **Data Warehouse (DWH)** and analytics sol
 - **Facts:** Sales, Shipments, Invoices
 - **Dimensions:** Customer, Product, Supplier, Employee, Shipper, Invoice, Date
 
+  ## Design
+  - Star Schema ⭐
+
 ## ⚙️ ETL Process
-1. Extract from Northwind OLTP → staging (Silver layer)  
-2. Transform (cleaning, surrogate keys, handling SCD2)  
-3. Load into DWH (fact & dimension tables)
+1. Extract from Northwind OLTP → staging (Bronze 🥉 layer)  
+2. Transform (cleaning, surrogate keys, handling SCD2)  (Silver 🥉 layer)  
+3. Load into DWH (fact & dimension tables) (Gold 🥉 layer)  
 
 ## 📊 Reports & KPIs
 - Sales trends (monthly/quarterly)  
